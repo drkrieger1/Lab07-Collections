@@ -9,7 +9,7 @@
 - submit a link to your PR in canvas
 
 ## Directions
-- Create a custom generic list for an e-commerce store to hold their inventory of products
+- Create a custom generic collection for an e-commerce store to hold their inventory of products
   - *Hint: Your generic collection should be Inventory\<Product>*
 - Include an enum in your *Product*
 - Make sure the generic has the functionality to use a foreach loop.
