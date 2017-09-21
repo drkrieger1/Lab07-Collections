@@ -42,6 +42,8 @@ namespace Lab07_erik
                     }
                 }
             }
+            count--;
+            items = newArray;
         }
 
         public IEnumerator<T> GetEnumerator()
